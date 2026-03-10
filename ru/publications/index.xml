@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://snbondarenko102.github.io/ru/publications/</link>
+      <atom:link href="https://snbondarenko102.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snbondarenko102.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://snbondarenko102.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывное развертывание (CI/CD) в современной разработке</title>
+      <link>https://snbondarenko102.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://snbondarenko102.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🚀 Что такое CI/CD&lt;/h2&gt;
+&lt;p&gt;В современной разработке программного обеспечения большое значение имеет скорость выпуска новых версий продукта и стабильность работы системы. Для этого используются подходы &lt;strong&gt;CI/CD (Continuous Integration / Continuous Delivery / Continuous Deployment)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;CI/CD — это набор практик и инструментов, которые автоматизируют процесс сборки, тестирования и развертывания программного обеспечения.&lt;/p&gt;
+&lt;p&gt;Такая модель позволяет разработчикам быстрее выпускать обновления, уменьшать количество ошибок и поддерживать стабильную работу приложений.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-непрерывная-интеграция-ci&#34;&gt;🔧 Непрерывная интеграция (CI)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — это практика, при которой разработчики регулярно объединяют изменения своего кода в общий репозиторий.&lt;/p&gt;
+&lt;p&gt;Каждое изменение автоматически проходит несколько этапов проверки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;автоматическая сборка проекта&lt;/li&gt;
+&lt;li&gt;запуск тестов&lt;/li&gt;
+&lt;li&gt;проверка качества кода&lt;/li&gt;
+&lt;li&gt;обнаружение ошибок на ранней стадии&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Благодаря этому проблемы выявляются сразу после добавления нового кода, а не на поздних этапах разработки.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-непрерывная-доставка-и-развертывание-cd&#34;&gt;📦 Непрерывная доставка и развертывание (CD)&lt;/h2&gt;
+&lt;p&gt;После успешной проверки кода начинается следующий этап — &lt;strong&gt;Continuous Delivery или Continuous Deployment&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;continuous-delivery&#34;&gt;Continuous Delivery&lt;/h3&gt;
+&lt;p&gt;Код автоматически подготавливается к выпуску, но решение о публикации новой версии принимает человек.&lt;/p&gt;
+&lt;h3 id=&#34;continuous-deployment&#34;&gt;Continuous Deployment&lt;/h3&gt;
+&lt;p&gt;Каждое успешное изменение автоматически разворачивается в рабочей среде без ручного вмешательства.&lt;/p&gt;
+&lt;p&gt;Этот подход позволяет выпускать обновления очень часто — иногда даже несколько раз в день.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-преимущества-cicd&#34;&gt;⚙️ Преимущества CI/CD&lt;/h2&gt;
+&lt;p&gt;Использование CI/CD дает разработчикам и компаниям несколько важных преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ более быстрый выпуск новых функций&lt;/li&gt;
+&lt;li&gt;🛠 автоматическое тестирование и проверка кода&lt;/li&gt;
+&lt;li&gt;🔍 раннее обнаружение ошибок&lt;/li&gt;
+&lt;li&gt;📈 повышение стабильности программных продуктов&lt;/li&gt;
+&lt;li&gt;🤝 улучшение взаимодействия между разработчиками и DevOps-командами&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;🌐 Почему это важно&lt;/h2&gt;
+&lt;p&gt;В условиях быстро развивающейся цифровой экономики компании должны оперативно внедрять новые технологии и обновления. CI/CD помогает сделать процесс разработки более гибким, надежным и предсказуемым.&lt;/p&gt;
+&lt;p&gt;Именно поэтому методы &lt;strong&gt;непрерывной интеграции и развертывания&lt;/strong&gt; сегодня являются важной частью современной разработки программного обеспечения и DevOps-практик.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
