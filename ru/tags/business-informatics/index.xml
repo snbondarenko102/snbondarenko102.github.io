@@ -5,12 +5,32 @@
     <link>https://snbondarenko102.github.io/ru/tags/business-informatics/</link>
       <atom:link href="https://snbondarenko102.github.io/ru/tags/business-informatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Business Informatics</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snbondarenko102.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Business Informatics</title>
       <link>https://snbondarenko102.github.io/ru/tags/business-informatics/</link>
     </image>
+    
+    <item>
+      <title>Учебная неделя в университете</title>
+      <link>https://snbondarenko102.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://snbondarenko102.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя прошла насыщенно и позволила закрепить уже изученный материал, а также познакомиться с новыми темами. Темп обучения постепенно растёт, и это помогает лучше погружаться в специальность.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; продолжили изучение информационных систем, уделяя внимание их роли в управлении компанией и принятии решений.&lt;/li&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; стала увереннее работать с базовыми конструкциями и пробовать более сложные задачи, требующие логического мышления.&lt;/li&gt;
+&lt;li&gt;📊 В рамках темы &lt;strong&gt;анализа данных&lt;/strong&gt; разбирали способы обработки информации и её интерпретации для бизнеса.&lt;/li&gt;
+&lt;li&gt;🌐 Обсуждали вопросы &lt;strong&gt;цифровой трансформации&lt;/strong&gt; и влияние технологий на современные рынки и организации.&lt;/li&gt;
+&lt;li&gt;🤝 Работа в группах помогла лучше понять сложные темы и увидеть разные подходы к решению задач.&lt;/li&gt;
+&lt;li&gt;🌿 Вне учёбы старалась находить время для отдыха и восстановления, чтобы сохранять баланс между нагрузкой и личным временем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта неделя показала, насколько важно не только получать знания, но и уметь применять их на практике. Постепенно складывается более целостное понимание выбранной профессии.&lt;/p&gt;
+&lt;p&gt;С нетерпением жду следующей недели и новых возможностей для развития.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Непрерывное развертывание (CI/CD) в современной разработке</title>

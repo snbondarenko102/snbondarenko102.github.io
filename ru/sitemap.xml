@@ -54,7 +54,33 @@
       href="https://snbondarenko102.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://snbondarenko102.github.io/blog/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://snbondarenko102.github.io/ru/blog/"
+    /></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://snbondarenko102.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://snbondarenko102.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/university/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://snbondarenko102.github.io/ru/tags/ci/cd/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -72,31 +98,7 @@
   <url>
     <loc>https://snbondarenko102.github.io/ru/tags/software-development/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/tags/"
-    /></url>
-  <url>
     <loc>https://snbondarenko102.github.io/ru/publications/01/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/blog/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/blog/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/student-life/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/university/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://snbondarenko102.github.io/ru/blog/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
