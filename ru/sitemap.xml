@@ -54,21 +54,27 @@
       href="https://snbondarenko102.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://snbondarenko102.github.io/ru/tags/academic/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://snbondarenko102.github.io/blog/"
+      href="https://snbondarenko102.github.io/tags/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/blog/"
+      href="https://snbondarenko102.github.io/ru/tags/academic/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/tags/hugo/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://snbondarenko102.github.io/tags/hugo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://snbondarenko102.github.io/ru/tags/hugo/"
+    /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://snbondarenko102.github.io/ru/tags/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://snbondarenko102.github.io/tags/"
@@ -78,15 +84,17 @@
       href="https://snbondarenko102.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/university/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/tags/web-development/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/projects/hugo/</loc><lastmod>2026-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/ci/cd/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/tags/data-science/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/devops/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://snbondarenko102.github.io/ru/tags/documentation/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/publications/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://snbondarenko102.github.io/ru/tags/programming/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/publications/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://snbondarenko102.github.io/publications/"
@@ -95,6 +103,48 @@
       hreflang="ru"
       href="https://snbondarenko102.github.io/ru/publications/"
     /></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/scientific-computing/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/student-life/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/university/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/publications/03/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/publications/04/</loc><lastmod>2026-03-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/academic-writing/</loc><lastmod>2026-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/education/</loc><lastmod>2026-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/latex/</loc><lastmod>2026-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/publications/02/</loc><lastmod>2026-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/blog/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://snbondarenko102.github.io/blog/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://snbondarenko102.github.io/ru/blog/"
+    /></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/blog/04/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/blog/03/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/ci/cd/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/devops/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://snbondarenko102.github.io/ru/tags/software-development/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -172,66 +222,6 @@
       href="https://snbondarenko102.github.io/ru/slides/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/tags/hugo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/tags/hugo/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/tags/hugoblox/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/tags/hugoblox/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/markdown/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/tags/markdown/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/tags/markdown/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/projects/pandas/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/projects/pandas/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/projects/pytorch/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/projects/pytorch/"
-    /></url>
-  <url>
-    <loc>https://snbondarenko102.github.io/ru/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/projects/scikit/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/projects/scikit/"
-    /></url>
-  <url>
     <loc>https://snbondarenko102.github.io/ru/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -272,16 +262,6 @@
       href="https://snbondarenko102.github.io/ru/"
     /></url>
   <url>
-    <loc>https://snbondarenko102.github.io/ru/tags/academic/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://snbondarenko102.github.io/tags/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://snbondarenko102.github.io/ru/tags/academic/"
-    /></url>
-  <url>
     <loc>https://snbondarenko102.github.io/ru/events/example/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -290,6 +270,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://snbondarenko102.github.io/ru/events/example/"
+    /></url>
+  <url>
+    <loc>https://snbondarenko102.github.io/ru/tags/markdown/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://snbondarenko102.github.io/tags/markdown/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://snbondarenko102.github.io/ru/tags/markdown/"
     /></url>
   <url>
     <loc>https://snbondarenko102.github.io/ru/tags/open-science/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

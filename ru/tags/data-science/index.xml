@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | </title>
+    <link>https://snbondarenko102.github.io/ru/tags/data-science/</link>
+      <atom:link href="https://snbondarenko102.github.io/ru/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snbondarenko102.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Data Science</title>
+      <link>https://snbondarenko102.github.io/ru/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://snbondarenko102.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://snbondarenko102.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях, позволяя обрабатывать большие объёмы данных, моделировать сложные системы и проводить вычислительные эксперименты. Выбор языка во многом зависит от задач, однако существует ряд инструментов, которые стали стандартом в научной среде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и большому количеству библиотек. Используется для анализа данных, машинного обучения, визуализации и численных вычислений.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;MATLAB&lt;/strong&gt; — широко применяется в инженерии и прикладной математике. Отличается удобством работы с матрицами и встроенными инструментами для моделирования.&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;R&lt;/strong&gt; — язык, ориентированный на статистический анализ и обработку данных. Особенно востребован в научных исследованиях и аналитике.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, разработанный специально для высокопроизводительных вычислений. Сочетает скорость низкоуровневых языков с удобством высокоуровневых.&lt;/li&gt;
+&lt;li&gt;💾 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, который до сих пор используется в научных расчётах благодаря высокой производительности.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;C/C++&lt;/strong&gt; — применяются там, где требуется максимальная скорость выполнения и контроль над ресурсами, например в физическом моделировании и вычислительной инженерии.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждый из этих языков имеет свои сильные стороны и области применения. В реальной практике часто используется комбинация нескольких инструментов для достижения наилучшего результата.&lt;/p&gt;
+&lt;p&gt;Освоение языков научного программирования открывает широкие возможности для участия в исследованиях, разработки новых технологий и решения сложных прикладных задач. Это важный шаг для тех, кто хочет связать свою карьеру с аналитикой, наукой или высокими технологиями.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

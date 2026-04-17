@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup Languages | </title>
+    <link>https://snbondarenko102.github.io/ru/tags/markup-languages/</link>
+      <atom:link href="https://snbondarenko102.github.io/ru/tags/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup Languages</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snbondarenko102.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Markup Languages</title>
+      <link>https://snbondarenko102.github.io/ru/tags/markup-languages/</link>
+    </image>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://snbondarenko102.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://snbondarenko102.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-языки-разметки-и-latex&#34;&gt;📝 Языки разметки и LaTeX&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с темой &lt;strong&gt;языков разметки&lt;/strong&gt; и отдельно изучила возможности системы &lt;strong&gt;LaTeX&lt;/strong&gt;, которая широко используется для оформления научных, учебных и технических документов.&lt;/p&gt;
+&lt;p&gt;Языки разметки нужны для того, чтобы структурировать текст и описывать, как должны располагаться его элементы. Они помогают отделить содержание от оформления, что особенно важно при создании больших документов, статей, отчётов и презентаций.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Сначала рассмотрели, что представляют собой &lt;strong&gt;языки разметки&lt;/strong&gt;, где они применяются и чем отличаются от обычных текстовых редакторов.&lt;/li&gt;
+&lt;li&gt;💡 Особое внимание уделили &lt;strong&gt;LaTeX&lt;/strong&gt; как инструменту для подготовки документов с большим количеством формул, таблиц, ссылок и структурированных разделов.&lt;/li&gt;
+&lt;li&gt;📚 Узнала, что LaTeX особенно популярен в академической среде, потому что позволяет создавать аккуратно оформленные курсовые работы, статьи, дипломы и научные публикации.&lt;/li&gt;
+&lt;li&gt;➕ На практике познакомилась с базовыми командами: создание заголовков, абзацев, списков, вставка математических формул и оформление документа по заданной структуре.&lt;/li&gt;
+&lt;li&gt;🔤 Интересно было увидеть, что в LaTeX внешний вид документа формируется не вручную, а через специальные команды, благодаря чему сохраняется единый стиль оформления.&lt;/li&gt;
+&lt;li&gt;📊 Также стало понятно, что этот инструмент удобен для работы с формулами, графиками, таблицами и библиографическими списками.&lt;/li&gt;
+&lt;li&gt;🚀 Несмотря на то что сначала синтаксис кажется непривычным, со временем работа в LaTeX становится более понятной и логичной.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение этой темы показало мне, что языки разметки играют важную роль в подготовке профессиональных документов. LaTeX, в свою очередь, оказался мощным и полезным инструментом, который особенно ценен в учебной и научной деятельности.&lt;/p&gt;
+&lt;p&gt;Думаю, что дальнейшее освоение LaTeX поможет мне увереннее оформлять учебные работы и лучше понимать принципы структурирования информации.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
